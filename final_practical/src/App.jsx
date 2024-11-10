@@ -14,7 +14,6 @@ function App() {
     {/* <Topbar/> */}
 
     {/* <Map/> */}
-
     {/* <ToggleButton/> */}
 
       {/* Conditionally render the Lifecycle component */}
